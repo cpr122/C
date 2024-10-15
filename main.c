@@ -30,4 +30,3 @@ main (){
 printf("%d \n",unNumero+otroNumero);
 
 }
-
