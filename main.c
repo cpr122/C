@@ -19,7 +19,6 @@ int main (){
     // en el metodo principal escribe el codigo que imprima la suma de : 5+8,78787+3259
      printf("la suma de 5+8 :%d \n", 5+8);
      printf("la suma de 78787+3259 :%d \n",78787+3259);
-
 }
 
 //lamina 3
