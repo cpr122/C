@@ -27,5 +27,5 @@ main (){
     int otroNumero=4;
     //QUIERO IMPRIMIR LA SUMA 3+4
 printf("%d \n",unNumero+otroNumero);
-
+printf("fin de programa");
 }
